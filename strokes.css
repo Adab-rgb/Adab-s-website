@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+h1:hover {
+    color: purple;
+}
+
+.Adab {
+    border-radius: 400px;
+    border-color: rgb(58, 7, 100);
+}
+
+.Adab:hover {
+    border-radius: 0px;
+    box-shadow: 5px 10px purple;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: purple;
+    font-style: italic;
+}
+
+header {
+    font-style: oblique;
+    text-align: left;
+}
+
+#google {
+    border-radius: 600px;
+}
+
+h4 {
+    text-align: left;
+}
+
+p {
+    font-style: oblique;
+    color: white;
+}
+
+iframe {
+    box-shadow: 10px 5px purple;
+}
